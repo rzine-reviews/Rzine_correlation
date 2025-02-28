@@ -1,4 +1,4 @@
-# Analyse des corrélations avec easystats [<img src="https://rzine.fr/img/Rzine_logo.png"  align="right" width="120"/>](http://rzine.fr/)
+# Analyse des corrélations avec easystats  [<img src="https://rzine.fr/assets/img/rzine.png"  align="right" width="120"/>](http://rzine.fr/)
 ### Guide pratique avec R
 **Grégoire Le Campion (UMR 5319 passages)**
 <br/>  
